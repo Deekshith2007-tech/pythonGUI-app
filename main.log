@@ -1,0 +1,43 @@
+[bob] SERVER: Send your name using /name YourName
+SERVER: bob has joined the chat.SERVER: Welcome bob! Type /exit to leave.
+[alice] SERVER: Send your name using /name YourName
+SERVER: alice has joined the chat.SERVER: Welcome alice! Type /exit to leave.
+[alice] SERVER: bob has joined the chat.
+[alice] alice: hi
+[bob] alice: hi
+[alice] bob: how are you
+[bob] bob: how are you
+[alice] alice: i am fine
+[bob] alice: i am fine
+[alice] bob: nice to meet yoy
+[bob] bob: nice to meet yoy
+[bob] bob: nice to meet you
+[alice] bob: nice to meet you
+[alice] bob: bye
+[bob] bob: bye
+[bob] alice: bye
+[alice] alice: bye
+[alice] alice: exit
+[bob] alice: exit
+[alice] SERVER: bob has left the chat.
+[alice] SERVER: Send your name using /name YourName
+SERVER: alice has joined the chat.SERVER: Welcome alice! Type /exit to leave.
+[bob] SERVER: Send your name using /name YourName
+SERVER: bob has joined the chat.SERVER: Welcome bob! Type /exit to leave.
+[alice] SERVER: bob has joined the chat.
+[bob] SERVER: Send your name using /name YourName
+SERVER: bob has joined the chat.SERVER: Welcome bob! Type /exit to leave.
+[alice] SERVER: Send your name using /name YourName
+SERVER: alice has joined the chat.SERVER: Welcome alice! Type /exit to leave.
+[alice] SERVER: bob has joined the chat.
+[alice] alice: hi
+[bob] alice: hi
+[bob] bob: hello
+[alice] bob: hello
+[bob] SERVER: Send your name using /name YourName
+SERVER: Welcome bob! Type /exit to leave.
+[alice] SERVER: Send your name using /name YourName
+SERVER: Welcome alice! Type /exit to leave.
+SERVER: bob has joined the chat.
+[bob] alice: hi
+[alice] bob: hello
